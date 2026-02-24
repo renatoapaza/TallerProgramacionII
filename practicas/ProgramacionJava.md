@@ -4,15 +4,7 @@ Este repositorio contiene una serie de ejercicios prácticos diseñados para apr
 
 ---
 
-
-## 📋 Índice
-
-- [Bloque 1 — Variables, Lectura de Datos y Condicionales](#bloque-1--variables-lectura-de-datos-y-condicionales)
-- [Bloque 2 — Bucles, Operadores, Acumuladores y Contadores](#bloque-2--bucles-operadores-acumuladores-y-contadores)
-
----
-
-## 🔷 Bloque 1 — Variables, Lectura de Datos y Condicionales
+## 🔷 Parte 1 — Variables, Lectura de Datos y Condicionales
 
 > **Conceptos que se aplican:** tipos de datos, declaración de variables, lectura por teclado (`Scanner`), estructuras `if`, `if-else` y condicionales múltiples.
 
@@ -42,8 +34,6 @@ Categoría: Adulto mayor
 Precio de la entrada: Bs. 12
 ```
 
-> 🧠 **Conceptos aplicados:** variables `int`, lectura con `Scanner`, `if-else` encadenado.
-
 ---
 
 ### Ejercicio 2 — 💪 Gimnasio FitLife
@@ -68,8 +58,6 @@ Plan: Vespertino
 Horario: 17:00 a 19:00
 Precio mensual: Bs. 130
 ```
-
-> 🧠 **Conceptos aplicados:** variables `int` y `String`, `if-else`, validación de entrada.
 
 ---
 
@@ -100,8 +88,6 @@ Descuento en Bs.: 12.05
 Total a pagar: Bs. 108.45
 ```
 
-> 🧠 **Conceptos aplicados:** variables `double`, operaciones aritméticas, `if-else`, cálculo de porcentajes.
-
 ---
 
 ### Ejercicio 4 — 🛵 Servicio de Delivery
@@ -125,8 +111,6 @@ Cliente: María
 Costo de envío: Bs. 18
 Tiempo estimado: 50 minutos
 ```
-
-> 🧠 **Conceptos aplicados:** variables `double` y `String`, lectura de datos, condicionales múltiples.
 
 ---
 
@@ -152,8 +136,6 @@ Curso asignado: Curso Intermedio
 Horario: Martes y jueves de 14:00 a 16:00
 ```
 
-> 🧠 **Conceptos aplicados:** variables `int` y `String`, `if-else` anidado, condicionales múltiples, mensajes condicionales.
-
 ---
 ### Ejercicio 6 — 📦 Sistema de Importación Aduanera
 **Enunciado**
@@ -170,8 +152,6 @@ Impuesto aplicado: 20%
 Monto de impuesto: Bs. 800
 Total a pagar: Bs. 4800
 ```
-> 🧠 **Conceptos aplicados:** `double`, `if-else` anidado, operadores aritméticos.
-
 ---
 
 ### Ejercicio 7 — 🎢 Parque de Diversiones "Extreme"
@@ -191,7 +171,6 @@ Día: Miércoles
 Resultado: Acceso Autorizado (Plan Adulto)
 Monto: Bs. 48.0
 ```
-> 🧠 **Conceptos aplicados:** Operadores lógicos (`&&`, `||`), `String.equalsIgnoreCase()`.
 
 ---
 
@@ -211,8 +190,6 @@ Cuota deseada: 250
 
 Resultado: CRÉDITO RECHAZADO (El ingreso debe ser de al menos 10000 para este caso).
 ```
-> 🧠 **Conceptos aplicados:** Lógica booleana, condiciones compuestas.
-
 ---
 
 ### Ejercicio 9 — 🏨 Hotel "Vista al Mar"
@@ -230,11 +207,10 @@ Costo base: Bs. 400
 Recargo: Bs. 80
 Total por noche: Bs. 480
 ```
-> 🧠 **Conceptos aplicados:** `switch` o `if-else`, cálculo de porcentajes.
 
 ---
 
-### Ejercicio 5 — ⚡ Consumo Eléctrico Domiciliario
+### Ejercicio 10 — ⚡ Consumo Eléctrico Domiciliario
 **Enunciado**
 
 La empresa eléctrica cobra por tramos de consumo (kWh). El sistema pide el consumo del mes:
@@ -246,15 +222,19 @@ Adicionalmente, si el usuario vive en zona **"Rural"**, recibe un subsidio del 1
 **Ejemplo de ejecución:**
 
 ```
+Consumo (kWh): 150
+Zona (Urbana/Rural): Rural
+
+Total a pagar: Bs. 119.0
 ```
 
 
 
 ---
 
-## 🔶 Bloque 2 — Bucles, Operadores, Acumuladores y Contadores
+## 🔶 Parte 2 — Bucles, Operadores, Acumuladores y Contadores
 
-> **Conceptos que se aplican:** bucles `while` y `for`, operadores aritméticos, acumuladores, contadores, condición de corte, resumen final.
+> **Conceptos que se aplican:** bucles `while` `do-while` y `for`, operadores aritméticos, acumuladores, contadores, condición de corte, resumen final.
 
 ---
 
@@ -284,8 +264,6 @@ Total recaudado: Bs. 33.50
 Precio promedio: Bs. 11.17
 ```
 
-> 🧠 **Conceptos aplicados:** bucle `while`, acumulador, contador, condición de corte por `String`.
-
 ---
 
 ### Ejercicio 2 — 📝 Control de Notas
@@ -313,8 +291,6 @@ Aprobados: 1
 Reprobados: 1
 Promedio del grupo: 60.00
 ```
-
-> 🧠 **Conceptos aplicados:** bucle `while`, contadores múltiples, acumulador, cálculo de promedio.
 
 ---
 
@@ -346,8 +322,6 @@ Sin descuento (monto menor a Bs. 200)
 Total a pagar: Bs. 87.00
 ```
 
-> 🧠 **Conceptos aplicados:** bucle `while`, acumulador con múltiples variables, descuento condicional al finalizar el bucle.
-
 ---
 
 ### Ejercicio 4 — 🌡️ Registro de Temperatura
@@ -374,8 +348,6 @@ Temperatura mínima: 15.8°C
 Temperatura promedio: 25.4°C
 Horas con temperatura mayor a 30°C: 5
 ```
-
-> 🧠 **Conceptos aplicados:** bucle `for`, acumulador, variables de máximo y mínimo, contador con condición interna.
 
 ---
 
@@ -418,8 +390,6 @@ Paquete C — Reservas: 0 | Total: Bs. 0.00
 -------------------------------
 Ingreso total del día: Bs. 939.00
 ```
-
-> 🧠 **Conceptos aplicados:** bucle `while`, contadores y acumuladores múltiples por categoría, cálculo de descuentos, resumen final diferenciado.
 
 ---
 
