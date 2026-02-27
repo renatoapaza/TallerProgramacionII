@@ -110,11 +110,11 @@ Al finalizar la asignatura el estudiante será capaz de:
 
 | Evaluación        | Porcentaje | Temas Evaluados |
 |-------------------|------------|-----------------|
-| 1er Parcial       | 20%        | Unidad 1 y 2     |
-| 2do Parcial       | 20%        | Unidad 3 y 4     |
+| 1er Parcial       | 25%        | Unidad 1 y 2     |
+| 2do Parcial       | 25%        | Unidad 3 y 4     |
 | Examen Final      | 30%        | Todo el contenido |
 | Proyecto Final    | 15%        | 2 presentaciones |
-| Prácticas en Clase| 15%        | Evaluación continua |
+| Prácticas en Clase| 10%        | Evaluación continua, distribuido en 5% para el 1er y 2do parcial |
 
 ---
 
