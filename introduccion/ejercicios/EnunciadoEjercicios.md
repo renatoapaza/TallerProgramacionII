@@ -436,6 +436,35 @@ Temp. Mínima: 85°C
 Alerta: SI
 ```
 
+
+### Ejercicio 9 — 🌡️ Monitoreo de Clima Semanal
+
+**Enunciado**
+
+Un meteorólogo necesita registrar la temperatura máxima alcanzada durante una semana completa (7 días). El sistema debe solicitar, uno por uno, la temperatura de cada día.
+
+Al finalizar la carga, el programa debe informar:
+
+1. El **promedio** de temperatura de la semana.
+2. La **temperatura más alta** registrada.
+3. Cuántos días tuvieron temperaturas superiores a 30°C.
+
+**Ejemplo de ejecución:**
+
+```
+Registro de temperaturas - Semana 1
+Día 1: 25.5
+Día 2: 31.0
+...
+Día 7: 28.4
+
+--- Reporte Semanal ---
+Promedio de temperatura: 27.8°C
+Temperatura máxima: 31.0°C
+Días calurosos (>30°C): 1
+```
+
+
 ---
 ## 💡 Recomendaciones para el estudiante
 
